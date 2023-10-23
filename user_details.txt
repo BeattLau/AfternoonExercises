@@ -1,0 +1,11 @@
+Name: Laura
+Age: 34
+Email address: hello@java.com
+Phone number: 1234567890
+Address: Berlin
+
+Favourite book: Dracula
+Author: Bram Stoker
+Publication year: 1897
+
+Favourite colour: Black
