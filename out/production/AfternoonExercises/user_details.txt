@@ -7,3 +7,5 @@ Address: Berlin
 Favourite book: Dracula
 Author: Bram Stoker
 Publication year: 1897
+
+Favourite colour: Black
